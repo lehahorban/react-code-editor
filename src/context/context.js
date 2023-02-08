@@ -6,6 +6,7 @@ const EditorProvider = ({ children }) => {
   const [html, setHtml] = useState("");
   const [css, setCss] = useState("");
   const [js, setJs] = useState("");
+
   const value = {
     html,
     css,

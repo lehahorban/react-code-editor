@@ -11,6 +11,7 @@ import { EditorContext } from "../../context/context";
 
 const HtmlEditor = () => {
   const { html, setHtml } = useContext(EditorContext);
+
   return (
     <AceEditor
       placeholder="Write HTML"
