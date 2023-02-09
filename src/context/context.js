@@ -1,6 +1,7 @@
 import { createContext, useState } from "react";
 
 const EditorContext = createContext();
+console.log(EditorContext);
 
 const EditorProvider = ({ children }) => {
   const [html, setHtml] = useState("");
