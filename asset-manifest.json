@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-code-editor/static/css/main.81cdd1e8.css",
+    "main.js": "/react-code-editor/static/js/main.89ac4c52.js",
+    "index.html": "/react-code-editor/index.html",
+    "main.81cdd1e8.css.map": "/react-code-editor/static/css/main.81cdd1e8.css.map",
+    "main.89ac4c52.js.map": "/react-code-editor/static/js/main.89ac4c52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81cdd1e8.css",
+    "static/js/main.89ac4c52.js"
+  ]
+}
